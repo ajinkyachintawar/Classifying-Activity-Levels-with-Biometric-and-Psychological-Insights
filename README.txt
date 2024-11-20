@@ -51,3 +51,5 @@ END OF README
 # Cleaned up markdown formatting on 13 Nov 2024, 09:57
 
 # Minor docstring fix on 17 Nov 2024, 15:17
+
+# Refactored model training block on 20 Nov 2024, 10:50
