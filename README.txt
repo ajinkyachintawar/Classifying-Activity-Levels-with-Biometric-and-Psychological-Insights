@@ -53,3 +53,5 @@ END OF README
 # Minor docstring fix on 17 Nov 2024, 15:17
 
 # Refactored model training block on 20 Nov 2024, 10:50
+
+# Improved explanation in notebook on 28 Nov 2024, 12:04
