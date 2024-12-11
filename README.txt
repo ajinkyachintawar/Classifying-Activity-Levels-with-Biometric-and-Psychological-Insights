@@ -55,3 +55,5 @@ END OF README
 # Refactored model training block on 20 Nov 2024, 10:50
 
 # Improved explanation in notebook on 28 Nov 2024, 12:04
+
+# Enhanced feature importance plot on 11 Dec 2024, 20:50
