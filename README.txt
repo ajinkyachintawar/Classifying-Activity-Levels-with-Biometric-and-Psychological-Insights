@@ -2,6 +2,8 @@
 README: Running the Code in JupyterLab/Notebook
 ===========================================
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ajinkyachintawar/Classifying-Activity-Levels-with-Biometric-and-Psychological-Insights)
+
 1. Prerequisites:
    - Ensure Python 3.9.18 is installed.
    - JupyterLab Version: 4.0.11 or Jupyter Notebook	
